@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm S3v3ny 👋
 
-<!--
-**S3v3ny/S3v3ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+网络安全学习者，专注于逆向工程、自动化安全测试与 AI Agent。  
+Cybersecurity learner focused on reverse engineering, automated security testing, and AI agents.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building security and automation tools with **C++** and **Python**
+- Exploring **Windows PE internals** and binary analysis
+- Designing **multi-agent security workflows**
+- Improving project documentation, reproducibility, testing, and safety
+
+## Featured projects
+
+- **[Skidc](https://github.com/S3v3ny/skidc)** — Multi-agent pentest orchestrator for Web, API, and Android
+- **[PE Format Analyzer](https://github.com/S3v3ny/pe-format-analyzer)** — C++ parser for Windows PE headers and section tables
+- **[Digital Human Companion System](https://github.com/S3v3ny/Digital-Human-Companion-System)** — LLM-powered companion with ASR, TTS, RAG, and risk detection
+- **[HTML to PDF Crawler](https://github.com/S3v3ny/html-to-pdf-crawler)** — Extracts structured web content and renders PDFs
+
+## Tech
+
+`C++` · `Python` · `Reverse Engineering` · `Security Automation` · `AI Agents`
+
+> I learn by building, documenting, and refining practical tools.
