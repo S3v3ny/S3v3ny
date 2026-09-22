@@ -1,12 +1,11 @@
-# Hi, I'm S3v3ny 👋
+# Hi, I'm Seraphina 👋
 
 网络安全学习者，专注于逆向工程、自动化安全测试与 AI Agent。  
 Cybersecurity learner focused on reverse engineering, automated security testing, and AI agents.
 
 ## What I'm working on
 
-- Building security and automation tools with **C++** and **Python**
-- Exploring **Windows PE internals** and binary analysis
+- Exploring binary analysis
 - Designing **multi-agent security workflows**
 - Improving project documentation, reproducibility, testing, and safety
 
@@ -19,6 +18,6 @@ Cybersecurity learner focused on reverse engineering, automated security testing
 
 ## Tech
 
-`C++` · `Python` · `Reverse Engineering` · `Security Automation` · `AI Agents`
+`C` · `Python` · `Reverse Engineering` · `AI Security`
 
 > I learn by building, documenting, and refining practical tools.
