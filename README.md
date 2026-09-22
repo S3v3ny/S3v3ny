@@ -12,9 +12,8 @@ Cybersecurity learner focused on reverse engineering, automated security testing
 ## Featured projects
 
 - **[Skidc](https://github.com/S3v3ny/skidc)** — Multi-agent pentest orchestrator for Web, API, and Android
-- **[PE Format Analyzer](https://github.com/S3v3ny/pe-format-analyzer)** — C++ parser for Windows PE headers and section tables
 - **[Digital Human Companion System](https://github.com/S3v3ny/Digital-Human-Companion-System)** — LLM-powered companion with ASR, TTS, RAG, and risk detection
-- **[HTML to PDF Crawler](https://github.com/S3v3ny/html-to-pdf-crawler)** — Extracts structured web content and renders PDFs
+
 
 ## Tech
 
